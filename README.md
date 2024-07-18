@@ -1,5 +1,4 @@
-# CS330
-Comp Graphic and Visualization
+# Comp Graphic and Visualization
 
   Working on this project has helped me develop skills in designing 3D scenes, as well as
 understanding how to structure and organize code for rendering and interaction.
